@@ -1,1 +1,2 @@
 Moj strava kod ide ovde
+Dodajemo neki novi tekst iz grane "funk1"
